@@ -1,0 +1,7 @@
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\obj\Release\KıyafetSitesi.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\obj\Release\KıyafetSitesi.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\bin\KıyafetSitesi.dll.config
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\bin\KıyafetSitesi.dll
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\bin\KıyafetSitesi.pdb
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\obj\Release\KıyafetSitesi.dll
+C:\Users\miran\Desktop\KıyafetSitesiYedek_05.10.2024\Yeni klasör (2)\KıyafetSitesi\KıyafetSitesi\obj\Release\KıyafetSitesi.pdb

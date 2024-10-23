@@ -1,0 +1,1296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\classlar\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\classlar\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparislerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparislerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparisler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparisler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|c:\\users\\miran\\desktop\\k\u0131yafetsitesiyedek_05.10.2024\\yeni klas\u00F6r (2)\\k\u0131yafetsitesi\\k\u0131yafetsitesi\\urunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminurunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminurunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminurunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminurunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunler.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunler.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\js\\sonradaneklenenler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\js\\sonradaneklenenler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\docs\\templates\\footers\\footer-01.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\docs\\templates\\footers\\footer-01.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\docs\\templates\\property-gallery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\docs\\templates\\property-gallery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\docs\\components\\alerts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\docs\\components\\alerts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunlerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunlerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunbilgisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunbilgisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\sepetim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\sepetim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\sepetim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\sepetim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunbilgisi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunbilgisi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\profilim.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\profilim.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\profilim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\profilim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\css\\sonradaneklenenler.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\css\\sonradaneklenenler.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\favorilerim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\favorilerim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparislerim_detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparislerim_detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\sepetim.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\sepetim.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminurundetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminurundetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminurundetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminurundetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\hata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\hata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\profilim.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\profilim.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adres_ekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adres_ekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adres_ekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adres_ekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\profilim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\profilim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminsayfasi.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminsayfasi.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminsayfasi.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminsayfasi.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\cikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\cikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\cikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\cikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\genelbilgiler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\genelbilgiler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\kullanicidetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\kullanicidetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\genelbilgiler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\genelbilgiler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\kullanicilar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\kullanicilar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\kullanicilar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\kullanicilar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparisler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparisler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunistatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunistatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\favorilerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\favorilerim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\adminurundetay.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\adminurundetay.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparislerim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparislerim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\favorilerim.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\favorilerim.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparislerim_detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparislerim_detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparis_detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparis_detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\siparis_detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\siparis_detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\kullanicidetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\kullanicidetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\anasayfa.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\anasayfa.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\urunbilgisi.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\urunbilgisi.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\classlar\\favori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\classlar\\favori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\k\u0131yafetsitesi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:k\u0131yafetsitesi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miran\\source\\repos\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\docs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\css\\docs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\slick\\slick.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\slick\\slick.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\theme.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\js\\theme.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97161502-9B75-4496-AF6C-471B0881F4EE}|K\u0131yafetSitesi\\K\u0131yafetSitesi.csproj|solutionrelative:K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUrunler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunler.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminUrunler.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunler.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminUrunler.aspx.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwKEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:47:11.357Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Siparisler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparisler.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparisler.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparisler.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparisler.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:58:47.405Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urunler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Urunler.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Urunler.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:49:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrunEkle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunEkle.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\UrunEkle.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunEkle.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\UrunEkle.aspx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:41:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Siparisler.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparisler.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparisler.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparisler.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparisler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T16:43:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Siparislerim.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparislerim.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparislerim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T09:41:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urunler.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Urunler.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Urunler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T12:49:19.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Classlar\\SqlConnectionClass.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Classlar\\SqlConnectionClass.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Classlar\\SqlConnectionClass.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Classlar\\SqlConnectionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:43:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Urunler.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Urunler.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunler.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Urunler.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:34:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SonradanEklenenler.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\SonradanEklenenler.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\js\\SonradanEklenenler.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\SonradanEklenenler.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\js\\SonradanEklenenler.js",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-30T12:53:10.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminUrunler.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunler.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminUrunler.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunler.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminUrunler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-09T20:43:31.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrunEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunEkle.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\UrunEkle.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunEkle.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\UrunEkle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T15:49:21.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Web.config",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Web.config",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Web.config",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Web.config",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-16T12:29:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T08:42:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\animate.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\animate.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\animate.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\animate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T05:57:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm2.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T19:23:56.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm1.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T13:49:56.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "footer-01.html",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\templates\\footers\\footer-01.html",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\docs\\templates\\footers\\footer-01.html",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\templates\\footers\\footer-01.html",
+              "RelativeToolTip": "K\u0131yafetSitesi\\docs\\templates\\footers\\footer-01.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T09:47:14.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "property-gallery.html",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\templates\\property-gallery.html",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\docs\\templates\\property-gallery.html",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\templates\\property-gallery.html",
+              "RelativeToolTip": "K\u0131yafetSitesi\\docs\\templates\\property-gallery.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T09:46:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "alerts.html",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\components\\alerts.html",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\docs\\components\\alerts.html",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\docs\\components\\alerts.html",
+              "RelativeToolTip": "K\u0131yafetSitesi\\docs\\components\\alerts.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T09:45:49.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Urunlerim.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunlerim.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Urunlerim.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunlerim.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Urunlerim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T16:26:40.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UrunBilgisi.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\UrunBilgisi.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\UrunBilgisi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T21:01:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sepetim.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Sepetim.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Sepetim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T10:52:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnaSayfa.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:54:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnaSayfa.Master.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.Master.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.Master.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:39:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnaSayfa.Master",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.Master",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T13:32:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Sepetim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Sepetim.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Sepetim.aspx.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAmwAgBAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:17:41.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UrunBilgisi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\UrunBilgisi.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\UrunBilgisi.aspx.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwDgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:36:05.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Profilim.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Profilim.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Profilim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T13:20:58.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Profilim.master",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.master",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Profilim.master",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.master",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Profilim.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T19:22:36.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Favorilerim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Favorilerim.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Favorilerim.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:42:51.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SonradanEklenenler.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\SonradanEklenenler.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\css\\SonradanEklenenler.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\SonradanEklenenler.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\css\\SonradanEklenenler.css",
+              "ViewState": "AQIAAEwBAAAAAAAAAIAwwFsBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T13:47:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Siparislerim_Detay.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim_Detay.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparislerim_Detay.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim_Detay.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparislerim_Detay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T09:54:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sepetim.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Sepetim.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Sepetim.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Sepetim.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:40:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminUrunDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminUrunDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminUrunDetay.aspx.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAApwEgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:14:15.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminUrunDetay.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminUrunDetay.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminUrunDetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T15:35:56.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Profilim.master.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.master.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Profilim.master.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.master.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Profilim.master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:19:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Hata.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Hata.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Hata.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Hata.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Hata.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T12:36:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Adres_Ekle.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Adres_Ekle.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Adres_Ekle.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Adres_Ekle.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Adres_Ekle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T12:13:44.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Adres_Ekle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Adres_Ekle.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Adres_Ekle.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Adres_Ekle.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Adres_Ekle.aspx.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAjwJ4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:26:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Profilim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Profilim.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Profilim.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Profilim.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:35:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminSayfasi.Master.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminSayfasi.Master.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminSayfasi.Master.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminSayfasi.Master.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminSayfasi.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:58:53.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminSayfasi.Master",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminSayfasi.Master",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminSayfasi.Master",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminSayfasi.Master",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminSayfasi.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T15:08:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Cikis.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Cikis.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Cikis.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Cikis.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Cikis.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:10:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cikis.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Cikis.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Cikis.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Cikis.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Cikis.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T21:10:01.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenelBilgiler.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\GenelBilgiler.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\GenelBilgiler.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\GenelBilgiler.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\GenelBilgiler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T10:01:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "KullaniciDetay.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\KullaniciDetay.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\KullaniciDetay.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\KullaniciDetay.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\KullaniciDetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-23T12:01:36.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GenelBilgiler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\GenelBilgiler.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\GenelBilgiler.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\GenelBilgiler.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\GenelBilgiler.aspx.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:40:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Kullanicilar.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Kullanicilar.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Kullanicilar.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Kullanicilar.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Kullanicilar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T15:11:32.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Kullanicilar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Kullanicilar.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Kullanicilar.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Kullanicilar.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Kullanicilar.aspx.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:45:57.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Urunistatistik.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunistatistik.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Urunistatistik.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Urunistatistik.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Urunistatistik.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-09T20:21:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\miran\\source\\repos\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\packages.config",
+              "ToolTip": "C:\\Users\\miran\\source\\repos\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\packages.config",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-18T07:27:31.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Favorilerim.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Favorilerim.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Favorilerim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T07:27:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminUrunDetay.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AdminUrunDetay.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AdminUrunDetay.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AdminUrunDetay.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:02:14.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Siparislerim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparislerim.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparislerim.aspx.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:44:18.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Favorilerim.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Favorilerim.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Favorilerim.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Favorilerim.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:47:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AnaSayfa.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:01:48.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "docs.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\docs.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\css\\docs.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\docs.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\css\\docs.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB5KgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:33:04.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "themes.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\themes.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\css\\themes.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\css\\themes.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\css\\themes.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:33:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Siparislerim_Detay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim_Detay.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparislerim_Detay.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparislerim_Detay.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparislerim_Detay.aspx.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwEgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:55:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Siparis_Detay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparis_Detay.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparis_Detay.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparis_Detay.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparis_Detay.aspx.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwEsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:26:14.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Siparis_Detay.aspx",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparis_Detay.aspx",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Siparis_Detay.aspx",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Siparis_Detay.aspx",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Siparis_Detay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T16:45:12.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "KullaniciDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\KullaniciDetay.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\KullaniciDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\KullaniciDetay.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\KullaniciDetay.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:39:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AnaSayfa.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\AnaSayfa.Master.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\AnaSayfa.Master.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\AnaSayfa.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:42:49.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UrunBilgisi.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx.designer.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\UrunBilgisi.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\UrunBilgisi.aspx.designer.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\UrunBilgisi.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:01:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Favori.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Classlar\\Favori.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\Classlar\\Favori.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\Classlar\\Favori.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\Classlar\\Favori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:49:10.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\WebForm1.aspx.cs",
+              "RelativeToolTip": "K\u0131yafetSitesi\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:58:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "jquery.waypoints.min.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\waypoints\\jquery.waypoints.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAABAwAAAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T08:18:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "bootstrap-timepicker.min.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADUCQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T08:18:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "bootstrap-timepicker.min.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\timepicker\\bootstrap-timepicker.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABARgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T08:18:29.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "slick.min.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\slick\\slick.min.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\slick\\slick.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T08:18:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "slick.min.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\slick\\slick.min.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\slick\\slick.min.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\slick\\slick.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T08:18:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "mapbox-gl.min.css",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T08:18:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "mapbox-gl.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\mapbox-gl\\mapbox-gl.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T08:18:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "doc.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\doc.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\js\\doc.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\doc.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\js\\doc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T07:32:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "theme.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\theme.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\js\\theme.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\js\\theme.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\js\\theme.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T07:32:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\bootstrap\\bootstrap.bundle.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T05:57:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\jquery.min.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\jquery.min.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\jquery.min.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T07:33:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "anchor.min.js",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js",
+              "RelativeDocumentMoniker": "K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\K\u0131yafetSitesiYedek_05.10.2024\\Yeni klas\u00F6r (2)\\K\u0131yafetSitesi\\K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js",
+              "RelativeToolTip": "K\u0131yafetSitesi\\vendors\\anchor\\anchor.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T08:06:22.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

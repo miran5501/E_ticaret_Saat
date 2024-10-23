@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/AnaSayfa.Master" AutoEventWireup="true" CodeBehind="Profilim.master.cs" Inherits="KıyafetSitesi.Profilim1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <title>Miran Eser | Profilim</title>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <main id="content" class="bg-gray-01">
+    <div class="container container-xxl">
+        <div class="wrapper dashboard-wrapper">
+            <div class="d-flex flex-wrap flex-xl-nowrap">
+                <div class="db-sidebar mt-5 mt-lg-12 mb-lg-12" style="height: 500px;">
+                    <nav class="navbar navbar-expand navbar-light d-block px-0 header-sticky dashboard-nav py-0">
+
+                        <div class="collapse navbar-collapse bg-white" id="primaryMenuSidebar" >
+
+                            <ul class="list-group list-group-flush w-100">
+                                <li class="list-group-item pt-6 pb-4">
+                                    <h5 class="fs-13 letter-spacing-087 text-muted mb-3 text-uppercase px-3">Main</h5>
+                                    <ul class="list-group list-group-no-border rounded-lg">
+                                        <li class="list-group-item px-3 px-xl-4 py-2 sidebar-item">
+                                            <a href="Profilim.aspx" class="text-heading lh-1 sidebar-link">
+                                                <span class="sidebar-item-icon d-inline-block mr-3 text-muted fs-20">
+                                                    <svg class="icon icon-my-profile">
+                                                        <use xlink:href="#icon-my-profile"></use></svg>
+                                                </span>
+                                                <span class="sidebar-item-text">Profilim</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="list-group-item pt-6 pb-4">
+                                    <h5 class="fs-13 letter-spacing-087 text-muted mb-3 text-uppercase px-3">Manage Listings</h5>
+                                    <ul class="list-group list-group-no-border rounded-lg">
+                                        <li class="list-group-item px-3 px-xl-4 py-2 sidebar-item">
+                                            <a href="Adres_Ekle.aspx" class="text-heading lh-1 sidebar-link">
+                                                <span class="sidebar-item-icon d-inline-block mr-3 text-muted fs-20 fs-20">
+                                                    <svg class="icon icon-add-new">
+                                                        <use xlink:href="#icon-add-new"></use></svg></span>
+                                                <span class="sidebar-item-text">Adres Ekle</span>
+                                            </a>
+                                        </li>
+                                        <li class="list-group-item px-3 px-xl-4 py-2 sidebar-item">
+                                            <a href="Siparislerim.aspx" class="text-heading lh-1 sidebar-link d-flex align-items-center">
+                                                <span class="sidebar-item-icon d-inline-block mr-3 text-muted fs-20">
+                                                    <svg class="icon icon-my-package">
+                                                        <use xlink:href="#icon-my-package"></use></svg>
+                                                </span>
+                                                <span class="sidebar-item-text">Siparişlerim</span>
+                                                <span class="sidebar-item-number ml-auto text-primary fs-15 font-weight-bold"><asp:Label ID="lblSiparisSayisi" runat="server" Text="0"></asp:Label></span>
+                                            </a>
+                                        </li>
+                                        <li class="list-group-item px-3 px-xl-4 py-2 sidebar-item">
+                                            <a href="Favorilerim.aspx" class="text-heading lh-1 sidebar-link d-flex align-items-center">
+                                                <span class="sidebar-item-icon d-inline-block mr-3 text-muted fs-20">
+                                                    <svg class="icon icon-heart">
+                                                        <use xlink:href="#icon-heart"></use></svg>
+                                                </span>
+                                                <span class="sidebar-item-text">Favorilerim</span>
+                                                <span class="sidebar-item-number ml-auto text-primary fs-15 font-weight-bold"><asp:Label ID="lblFavoriSayisi" runat="server" Text="0"></asp:Label></span>
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                </li>
+                                <li class="list-group-item pt-6 pb-4">
+                                    <h5 class="fs-13 letter-spacing-087 text-muted mb-3 text-uppercase px-3">Manage Acount</h5>
+                                    <ul class="list-group list-group-no-border rounded-lg">
+                                        <li class="list-group-item px-3 px-xl-4 py-2 sidebar-item">
+                                            <a href="Cikis.aspx" class="text-heading lh-1 sidebar-link">
+                                                <span class="sidebar-item-icon d-inline-block mr-3 text-muted fs-20">
+                                                    <svg class="icon icon-log-out">
+                                                        <use xlink:href="#icon-log-out"></use></svg>
+                                                </span>
+                                                <span class="sidebar-item-text">Çıkış Yap</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="page-content mt-5">
+
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </div>
+    </main>
+</asp:Content>

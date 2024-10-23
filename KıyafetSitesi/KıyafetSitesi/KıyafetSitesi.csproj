@@ -1,0 +1,1108 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97161502-9B75-4496-AF6C-471B0881F4EE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KıyafetSitesi</RootNamespace>
+    <AssemblyName>KıyafetSitesi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44301</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminUrunDetay.aspx" />
+    <Content Include="AdminUrunler.aspx" />
+    <Content Include="Adres_Ekle.aspx" />
+    <Content Include="AnaSayfa.aspx" />
+    <Content Include="Cikis.aspx" />
+    <Content Include="css\docs.css" />
+    <Content Include="css\SonradanEklenenler.css" />
+    <Content Include="css\themes.css" />
+    <Content Include="docs\components\alerts.html" />
+    <Content Include="docs\components\badge.html" />
+    <Content Include="docs\components\breadcrumb.html" />
+    <Content Include="docs\components\button-group.html" />
+    <Content Include="docs\components\buttons.html" />
+    <Content Include="docs\components\card.html" />
+    <Content Include="docs\components\carousel.html" />
+    <Content Include="docs\components\collapse.html" />
+    <Content Include="docs\components\dropdowns.html" />
+    <Content Include="docs\components\forms.html" />
+    <Content Include="docs\components\input-group.html" />
+    <Content Include="docs\components\jumbotron.html" />
+    <Content Include="docs\components\list-group.html" />
+    <Content Include="docs\components\media-object.html" />
+    <Content Include="docs\components\modal.html" />
+    <Content Include="docs\components\navbar.html" />
+    <Content Include="docs\components\navs.html" />
+    <Content Include="docs\components\pagination.html" />
+    <Content Include="docs\components\popovers.html" />
+    <Content Include="docs\components\progress.html" />
+    <Content Include="docs\components\scrollspy.html" />
+    <Content Include="docs\components\spinners.html" />
+    <Content Include="docs\components\toasts.html" />
+    <Content Include="docs\components\tooltips.html" />
+    <Content Include="docs\content\code.html" />
+    <Content Include="docs\content\figures.html" />
+    <Content Include="docs\content\images.html" />
+    <Content Include="docs\content\tables.html" />
+    <Content Include="docs\content\typography.html" />
+    <Content Include="docs\getting-started\browser-support.html" />
+    <Content Include="docs\getting-started\changelog.html" />
+    <Content Include="docs\getting-started\components.html" />
+    <Content Include="docs\getting-started\dev-environment-setup.html" />
+    <Content Include="docs\getting-started\global-colors.html" />
+    <Content Include="docs\getting-started\header-footer-variants.html" />
+    <Content Include="docs\getting-started\installing-vendor-plugins.html" />
+    <Content Include="docs\getting-started\project-structure.html" />
+    <Content Include="docs\getting-started\sources-and-credits.html" />
+    <Content Include="docs\getting-started\using-jekyll-sass.html" />
+    <Content Include="docs\getting-started\utility-classes.html" />
+    <Content Include="docs\getting-started\working-with-gulp.html" />
+    <Content Include="docs\index-2.html" />
+    <Content Include="docs\index.html" />
+    <Content Include="docs\templates\accordion.html" />
+    <Content Include="docs\templates\agency.html" />
+    <Content Include="docs\templates\agent-creative.html" />
+    <Content Include="docs\templates\agent-creative\agent-creative-01.html" />
+    <Content Include="docs\templates\agent-creative\agent-creative-02.html" />
+    <Content Include="docs\templates\agent.html" />
+    <Content Include="docs\templates\bottom-bar-action.html" />
+    <Content Include="docs\templates\city-grid.html" />
+    <Content Include="docs\templates\counter.html" />
+    <Content Include="docs\templates\footer.html" />
+    <Content Include="docs\templates\footers\footer-01.html" />
+    <Content Include="docs\templates\footers\footer-02.html" />
+    <Content Include="docs\templates\footers\footer-03.html" />
+    <Content Include="docs\templates\footers\footer-04.html" />
+    <Content Include="docs\templates\footers\footer-05.html" />
+    <Content Include="docs\templates\footers\footer-06.html" />
+    <Content Include="docs\templates\footers\footer-07.html" />
+    <Content Include="docs\templates\footers\footer-08.html" />
+    <Content Include="docs\templates\footers\footer-09.html" />
+    <Content Include="docs\templates\footers\footer-10.html" />
+    <Content Include="docs\templates\footers\www.homeid.html" />
+    <Content Include="docs\templates\gallery.html" />
+    <Content Include="docs\templates\header.html" />
+    <Content Include="docs\templates\headers\header-01.html" />
+    <Content Include="docs\templates\headers\header-02.html" />
+    <Content Include="docs\templates\headers\header-03.html" />
+    <Content Include="docs\templates\headers\header-04.html" />
+    <Content Include="docs\templates\headers\header-05.html" />
+    <Content Include="docs\templates\headers\header-06.html" />
+    <Content Include="docs\templates\headers\header-07.html" />
+    <Content Include="docs\templates\heading.html" />
+    <Content Include="docs\templates\image-box.html" />
+    <Content Include="docs\templates\info-box.html" />
+    <Content Include="docs\templates\info-box\info-box-01.html" />
+    <Content Include="docs\templates\info-box\info-box-02.html" />
+    <Content Include="docs\templates\info-box\info-box-03.html" />
+    <Content Include="docs\templates\info-box\info-box-04.html" />
+    <Content Include="docs\templates\info-box\info-box-05.html" />
+    <Content Include="docs\templates\info-box\info-box-06.html" />
+    <Content Include="docs\templates\info-box\info-box-07.html" />
+    <Content Include="docs\templates\info-box\info-box-08.html" />
+    <Content Include="docs\templates\info-box\info-box-09.html" />
+    <Content Include="docs\templates\info-box\info-box-10.html" />
+    <Content Include="docs\templates\info-box\info-box-11.html" />
+    <Content Include="docs\templates\info-box\info-box-12.html" />
+    <Content Include="docs\templates\info-box\info-box-13.html" />
+    <Content Include="docs\templates\info-box\info-box-14.html" />
+    <Content Include="docs\templates\info-box\info-box-15.html" />
+    <Content Include="docs\templates\list.html" />
+    <Content Include="docs\templates\login-register.html" />
+    <Content Include="docs\templates\our-team.html" />
+    <Content Include="docs\templates\page-title.html" />
+    <Content Include="docs\templates\page-title\page-title-01.html" />
+    <Content Include="docs\templates\page-title\page-title-02.html" />
+    <Content Include="docs\templates\page-title\page-title-03.html" />
+    <Content Include="docs\templates\page-title\page-title-04.html" />
+    <Content Include="docs\templates\page-title\page-title-05.html" />
+    <Content Include="docs\templates\page-title\page-title-06.html" />
+    <Content Include="docs\templates\page-title\page-title-07.html" />
+    <Content Include="docs\templates\partner.html" />
+    <Content Include="docs\templates\posts.html" />
+    <Content Include="docs\templates\properties-creative.html" />
+    <Content Include="docs\templates\properties-creative\properties-creative-01.html" />
+    <Content Include="docs\templates\properties-creative\properties-creative-02.html" />
+    <Content Include="docs\templates\properties-grid.html" />
+    <Content Include="docs\templates\properties-list.html" />
+    <Content Include="docs\templates\properties-slider.html" />
+    <Content Include="docs\templates\properties-slider\properties-slider-01.html" />
+    <Content Include="docs\templates\properties-slider\properties-slider-02.html" />
+    <Content Include="docs\templates\properties-slider\properties-slider-03.html" />
+    <Content Include="docs\templates\properties-slider\properties-slider-04.html" />
+    <Content Include="docs\templates\property-gallery.html" />
+    <Content Include="docs\templates\property-search.html" />
+    <Content Include="docs\templates\property-search\property-search-01.html" />
+    <Content Include="docs\templates\property-search\property-search-02.html" />
+    <Content Include="docs\templates\property-search\property-search-03.html" />
+    <Content Include="docs\templates\property-search\property-search-04.html" />
+    <Content Include="docs\templates\property-search\property-search-05.html" />
+    <Content Include="docs\templates\property-search\property-search-06.html" />
+    <Content Include="docs\templates\property-search\property-search-07.html" />
+    <Content Include="docs\templates\single-property.html" />
+    <Content Include="docs\templates\social-icons.html" />
+    <Content Include="docs\templates\tabs.html" />
+    <Content Include="docs\templates\testimonials.html" />
+    <Content Include="docs\templates\widget.html" />
+    <Content Include="docs\utilities\homeid.html" />
+    <Content Include="Favorilerim.aspx" />
+    <Content Include="GenelBilgiler.aspx" />
+    <Content Include="Hata.aspx" />
+    <Content Include="images\add-listing-icon-primary.png" />
+    <Content Include="images\add-listing-icon.png" />
+    <Content Include="images\agency-details-02.jpg" />
+    <Content Include="images\agency-details.jpg" />
+    <Content Include="images\agency-grid-01.jpg" />
+    <Content Include="images\agency-grid-02.jpg" />
+    <Content Include="images\agency-grid-03.jpg" />
+    <Content Include="images\agency-grid-04.jpg" />
+    <Content Include="images\agency-grid-05.jpg" />
+    <Content Include="images\agency-grid-06.jpg" />
+    <Content Include="images\agency-list-01.jpg" />
+    <Content Include="images\agency-list-02.jpg" />
+    <Content Include="images\agency-list-03.jpg" />
+    <Content Include="images\agency-list-04.jpg" />
+    <Content Include="images\agency-list-05.jpg" />
+    <Content Include="images\agency-page-01.png" />
+    <Content Include="images\agency-page-02.png" />
+    <Content Include="images\agent-1.jpg" />
+    <Content Include="images\agent-10.jpg" />
+    <Content Include="images\agent-11.jpg" />
+    <Content Include="images\agent-12.jpg" />
+    <Content Include="images\agent-13.jpg" />
+    <Content Include="images\agent-14.jpg" />
+    <Content Include="images\agent-15.jpg" />
+    <Content Include="images\agent-16.jpg" />
+    <Content Include="images\agent-17.jpg" />
+    <Content Include="images\agent-18.jpg" />
+    <Content Include="images\agent-19.jpg" />
+    <Content Include="images\agent-2-lg.jpg" />
+    <Content Include="images\agent-2.jpg" />
+    <Content Include="images\agent-20.jpg" />
+    <Content Include="images\agent-21.jpg" />
+    <Content Include="images\agent-22.jpg" />
+    <Content Include="images\agent-23.jpg" />
+    <Content Include="images\agent-24.jpg" />
+    <Content Include="images\agent-25.jpg" />
+    <Content Include="images\agent-26.jpg" />
+    <Content Include="images\agent-27.jpg" />
+    <Content Include="images\agent-28.jpg" />
+    <Content Include="images\agent-29.jpg" />
+    <Content Include="images\agent-3-lg.jpg" />
+    <Content Include="images\agent-3.jpg" />
+    <Content Include="images\agent-30.jpg" />
+    <Content Include="images\agent-31.jpg" />
+    <Content Include="images\agent-32.jpg" />
+    <Content Include="images\agent-33.jpg" />
+    <Content Include="images\agent-34.jpg" />
+    <Content Include="images\agent-35.jpg" />
+    <Content Include="images\agent-36.jpg" />
+    <Content Include="images\agent-37.jpg" />
+    <Content Include="images\agent-38.jpg" />
+    <Content Include="images\agent-39.jpg" />
+    <Content Include="images\agent-4-lg.jpg" />
+    <Content Include="images\agent-40.jpg" />
+    <Content Include="images\agent-41.jpg" />
+    <Content Include="images\agent-42.jpg" />
+    <Content Include="images\agent-43.jpg" />
+    <Content Include="images\agent-44.jpg" />
+    <Content Include="images\agent-45.jpg" />
+    <Content Include="images\agent-46.jpg" />
+    <Content Include="images\agent-6.jpg" />
+    <Content Include="images\agent-7.jpg" />
+    <Content Include="images\agent-8.jpg" />
+    <Content Include="images\agent-9.jpg" />
+    <Content Include="images\agent-creative-01.jpg" />
+    <Content Include="images\agent-creative-02.jpg" />
+    <Content Include="images\agent-creative-03.jpg" />
+    <Content Include="images\agent-creative-04.jpg" />
+    <Content Include="images\agent-landing-01.png" />
+    <Content Include="images\architecture-and-city.png" />
+    <Content Include="images\author-01.jpg" />
+    <Content Include="images\author-2.jpg" />
+    <Content Include="images\bank.png" />
+    <Content Include="images\banner-landing-01-sm.png" />
+    <Content Include="images\banner-landing-01.png" />
+    <Content Include="images\banner-landing-02-sm.png" />
+    <Content Include="images\banner-landing-02.png" />
+    <Content Include="images\banner-landing-03-sm.png" />
+    <Content Include="images\banner-landing-03.png" />
+    <Content Include="images\banner-landing-04-sm.png" />
+    <Content Include="images\banner-landing-04.png" />
+    <Content Include="images\banner-landing-05-sm.png" />
+    <Content Include="images\banner-landing-05.png" />
+    <Content Include="images\banner-landing-06-sm.png" />
+    <Content Include="images\banner-landing-06.png" />
+    <Content Include="images\banner-landing-07-sm.png" />
+    <Content Include="images\banner-landing-07.png" />
+    <Content Include="images\banner-landing-08-sm.png" />
+    <Content Include="images\banner-landing-08.png" />
+    <Content Include="images\banner-landing-09.png" />
+    <Content Include="images\banner-landing-10.png" />
+    <Content Include="images\bath-rooms.png" />
+    <Content Include="images\bg-about-us.jpg" />
+    <Content Include="images\bg-banner-landing-01.png" />
+    <Content Include="images\bg-banner-landing-02.png" />
+    <Content Include="images\bg-contact-form-01.jpg" />
+    <Content Include="images\bg-home-01.jpg" />
+    <Content Include="images\bg-home-02.jpg" />
+    <Content Include="images\bg-home-03.jpg" />
+    <Content Include="images\bg-home-6.jpg" />
+    <Content Include="images\bg-home-8.jpg" />
+    <Content Include="images\bg-landing-feature.png" />
+    <Content Include="images\bg-listing-landing-left.png" />
+    <Content Include="images\bg-listing-landing-right.png" />
+    <Content Include="images\bg-mailchimp-01.jpg" />
+    <Content Include="images\bg-poweful-landing.png" />
+    <Content Include="images\bg-property-details.png" />
+    <Content Include="images\bg-search-utility-landing.png" />
+    <Content Include="images\bg-slider-01.jpg" />
+    <Content Include="images\bg-slider-02.jpg" />
+    <Content Include="images\bg-slider-03.jpg" />
+    <Content Include="images\bg-slider-04.jpg" />
+    <Content Include="images\bg-slider-08.jpg" />
+    <Content Include="images\bg-title-01.png" />
+    <Content Include="images\bg-title-02.png" />
+    <Content Include="images\bg-title-04.jpg" />
+    <Content Include="images\bg-title-3.jpg" />
+    <Content Include="images\bg-title.jpg" />
+    <Content Include="images\BG2.jpg" />
+    <Content Include="images\BG3.jpg" />
+    <Content Include="images\BG4.jpg" />
+    <Content Include="images\BG7.png" />
+    <Content Include="images\BG8.png" />
+    <Content Include="images\blog-details.jpg" />
+    <Content Include="images\blog-nav-01.jpg" />
+    <Content Include="images\blog-nav-02.jpg" />
+    <Content Include="images\browser-list.jpg" />
+    <Content Include="images\building.png" />
+    <Content Include="images\buy.png" />
+    <Content Include="images\clipboard.png" />
+    <Content Include="images\compare-01.jpg" />
+    <Content Include="images\compare-02.jpg" />
+    <Content Include="images\compare-03.jpg" />
+    <Content Include="images\compare-04.jpg" />
+    <Content Include="images\compare-05.jpg" />
+    <Content Include="images\compare-06.jpg" />
+    <Content Include="images\contact-widget.jpg" />
+    <Content Include="images\customer-support.jpg" />
+    <Content Include="images\download-brochure.png" />
+    <Content Include="images\eco-house.png" />
+    <Content Include="images\facebook.png" />
+    <Content Include="images\faqs.jpg" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\feature-property-01.jpg" />
+    <Content Include="images\flag-eng.jpg" />
+    <Content Include="images\flag-germany.jpg" />
+    <Content Include="images\flag-japan.jpg" />
+    <Content Include="images\flag-russia.jpg" />
+    <Content Include="images\flag-spain.jpg" />
+    <Content Include="images\flag-vietnam.jpg" />
+    <Content Include="images\footer-image-01.jpg" />
+    <Content Include="images\footer-logo-01.png" />
+    <Content Include="images\footer-logo-02.png" />
+    <Content Include="images\footer-logo-03.png" />
+    <Content Include="images\footer-logo-04.png" />
+    <Content Include="images\footer-logo-05.png" />
+    <Content Include="images\footer-logo-06.png" />
+    <Content Include="images\footer-logo-07.png" />
+    <Content Include="images\footer-logo-08.png" />
+    <Content Include="images\footer.jpg" />
+    <Content Include="images\gallery-01.jpg" />
+    <Content Include="images\gallery-02.jpg" />
+    <Content Include="images\gallery-03.jpg" />
+    <Content Include="images\gallery-04.jpg" />
+    <Content Include="images\gallery-05.jpg" />
+    <Content Include="images\gallery-06.jpg" />
+    <Content Include="images\gallery-07.jpg" />
+    <Content Include="images\gallery-08.jpg" />
+    <Content Include="images\gallery-09.jpg" />
+    <Content Include="images\gallery-10.jpg" />
+    <Content Include="images\gallery-11.jpg" />
+    <Content Include="images\gallery-lg-01.jpg" />
+    <Content Include="images\gallery-lg-02.jpg" />
+    <Content Include="images\gallery-lg-03.jpg" />
+    <Content Include="images\gallery-lg-04.jpg" />
+    <Content Include="images\gallery-lg-05.jpg" />
+    <Content Include="images\gallery-lg-06.jpg" />
+    <Content Include="images\gallery-lg-07.jpg" />
+    <Content Include="images\gallery-lg-08.jpg" />
+    <Content Include="images\gallery-lg-09.jpg" />
+    <Content Include="images\gallery-lg-10.jpg" />
+    <Content Include="images\gallery-lg-11.jpg" />
+    <Content Include="images\google.png" />
+    <Content Include="images\grid-landing-01.jpg" />
+    <Content Include="images\grid-landing-02.jpg" />
+    <Content Include="images\grid-landing-03.jpg" />
+    <Content Include="images\grid-landing-04.jpg" />
+    <Content Include="images\grid-landing-05.jpg" />
+    <Content Include="images\grid-landing-06.jpg" />
+    <Content Include="images\grid-landing-07.jpg" />
+    <Content Include="images\group-16.png" />
+    <Content Include="images\group-17.png" />
+    <Content Include="images\group-21.png" />
+    <Content Include="images\header.jpg" />
+    <Content Include="images\home-landing-01.jpg" />
+    <Content Include="images\home-landing-02.jpg" />
+    <Content Include="images\home-landing-03.jpg" />
+    <Content Include="images\home-landing-04.jpg" />
+    <Content Include="images\home-landing-05.jpg" />
+    <Content Include="images\home-landing-06.jpg" />
+    <Content Include="images\home-landing-07.jpg" />
+    <Content Include="images\home-landing-08.jpg" />
+    <Content Include="images\home-landing-09.jpg" />
+    <Content Include="images\house.png" />
+    <Content Include="images\icon-box-4.png" />
+    <Content Include="images\icon-box-5.png" />
+    <Content Include="images\icon-box-6.png" />
+    <Content Include="images\icon-box-7.png" />
+    <Content Include="images\icon-customer-support.png" />
+    <Content Include="images\icon-landing-feature-01.png" />
+    <Content Include="images\icon-landing-feature-02.png" />
+    <Content Include="images\icon-landing-feature-03.png" />
+    <Content Include="images\icon-landing-feature-04.png" />
+    <Content Include="images\icon-landing-feature-05.png" />
+    <Content Include="images\icon-landing-feature-06.png" />
+    <Content Include="images\icon-landing-search-01.png" />
+    <Content Include="images\icon-landing-search-02.png" />
+    <Content Include="images\icon-landing-search-03.png" />
+    <Content Include="images\icon-landing-search-04.png" />
+    <Content Include="images\icon-powerful-01.png" />
+    <Content Include="images\icon-powerful-02.png" />
+    <Content Include="images\icon-powerful-03.png" />
+    <Content Include="images\icon-powerful-04.png" />
+    <Content Include="images\icon-powerful-05.png" />
+    <Content Include="images\icon-powerful-06.png" />
+    <Content Include="images\icon-powerful-07.png" />
+    <Content Include="images\icon-property-details-01.png" />
+    <Content Include="images\icon-property-details-02.png" />
+    <Content Include="images\icon-property-details-03.png" />
+    <Content Include="images\icon-property-details-04.png" />
+    <Content Include="images\icon-property-details-05.png" />
+    <Content Include="images\image-box-4.jpg" />
+    <Content Include="images\image-box-5.jpg" />
+    <Content Include="images\image-box-6.jpg" />
+    <Content Include="images\image-box-7.jpg" />
+    <Content Include="images\image-box-8.jpg" />
+    <Content Include="images\image-box-9.jpg" />
+    <Content Include="images\irene-wallace.png" />
+    <Content Include="images\landing-feature-01.jpg" />
+    <Content Include="images\landing-feature-02.jpg" />
+    <Content Include="images\landing-feature-03.jpg" />
+    <Content Include="images\landing-feature-04.jpg" />
+    <Content Include="images\landing-feature-05.jpg" />
+    <Content Include="images\landing-feature-06.jpg" />
+    <Content Include="images\line-01.png" />
+    <Content Include="images\list-landing-01.jpg" />
+    <Content Include="images\list-landing-02.jpg" />
+    <Content Include="images\list-landing-03.jpg" />
+    <Content Include="images\list-landing-04.jpg" />
+    <Content Include="images\list-landing-05.jpg" />
+    <Content Include="images\logo-white-primary.png" />
+    <Content Include="images\logo-white.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\map-landing-01.jpg" />
+    <Content Include="images\map-landing-02.jpg" />
+    <Content Include="images\map-landing-03.jpg" />
+    <Content Include="images\map-landing-04.jpg" />
+    <Content Include="images\map-landing-05.jpg" />
+    <Content Include="images\map-landing-06.jpg" />
+    <Content Include="images\map-landing-07.jpg" />
+    <Content Include="images\mortgage.png" />
+    <Content Include="images\my-profile.png" />
+    <Content Include="images\my-properties-01.jpg" />
+    <Content Include="images\my-properties-02.jpg" />
+    <Content Include="images\my-properties-03.jpg" />
+    <Content Include="images\my-properties-04.jpg" />
+    <Content Include="images\Oliver-Beddows.jpg" />
+    <Content Include="images\our-team-01.jpg" />
+    <Content Include="images\our-team-02.jpg" />
+    <Content Include="images\our-team-03.jpg" />
+    <Content Include="images\our-team-04.jpg" />
+    <Content Include="images\our-team-05.jpg" />
+    <Content Include="images\our-team-06.jpg" />
+    <Content Include="images\our-team-07.jpg" />
+    <Content Include="images\page-404.jpg" />
+    <Content Include="images\partner-1.png" />
+    <Content Include="images\partner-2.png" />
+    <Content Include="images\partner-3.png" />
+    <Content Include="images\partner-4.png" />
+    <Content Include="images\partner-5.png" />
+    <Content Include="images\partner-6.jpg" />
+    <Content Include="images\partner-6.png" />
+    <Content Include="images\partner-hover-1.png" />
+    <Content Include="images\partner-hover-2.png" />
+    <Content Include="images\partner-hover-3.png" />
+    <Content Include="images\partner-hover-5.png" />
+    <Content Include="images\pattern-01.png" />
+    <Content Include="images\pattern-02.png" />
+    <Content Include="images\pattern-03.png" />
+    <Content Include="images\pattern-04.png" />
+    <Content Include="images\pattern-05.png" />
+    <Content Include="images\pattern-06.png" />
+    <Content Include="images\pattern-07.png" />
+    <Content Include="images\pattern-08.png" />
+    <Content Include="images\pattern-09.png" />
+    <Content Include="images\post-01.jpg" />
+    <Content Include="images\post-02.jpg" />
+    <Content Include="images\post-03.jpg" />
+    <Content Include="images\post-04.jpg" />
+    <Content Include="images\post-05.jpg" />
+    <Content Include="images\post-06.jpg" />
+    <Content Include="images\post-07.jpg" />
+    <Content Include="images\post-08.jpg" />
+    <Content Include="images\post-09.jpg" />
+    <Content Include="images\post-11.jpg" />
+    <Content Include="images\post-12.jpg" />
+    <Content Include="images\post-13.jpg" />
+    <Content Include="images\post-14.jpg" />
+    <Content Include="images\post-15.jpg" />
+    <Content Include="images\post-16.jpg" />
+    <Content Include="images\post-17.jpg" />
+    <Content Include="images\post-18.jpg" />
+    <Content Include="images\post-19.jpg" />
+    <Content Include="images\post-20.jpg" />
+    <Content Include="images\post-21.jpg" />
+    <Content Include="images\post-22.jpg" />
+    <Content Include="images\post-23.jpg" />
+    <Content Include="images\powerful-landing-01.png" />
+    <Content Include="images\powerful-landing-02.png" />
+    <Content Include="images\profile-11.jpg" />
+    <Content Include="images\profile-14.jpg" />
+    <Content Include="images\profile-24.jpg" />
+    <Content Include="images\profile-28.jpg" />
+    <Content Include="images\profile-30.png" />
+    <Content Include="images\profile-32.jpg" />
+    <Content Include="images\properties-city-01.jpg" />
+    <Content Include="images\properties-city-02.jpg" />
+    <Content Include="images\properties-city-03.jpg" />
+    <Content Include="images\properties-city-04.jpg" />
+    <Content Include="images\properties-city-05.jpg" />
+    <Content Include="images\properties-city-06.jpg" />
+    <Content Include="images\properties-city-07.jpg" />
+    <Content Include="images\properties-city-08.jpg" />
+    <Content Include="images\properties-city-09.jpg" />
+    <Content Include="images\properties-city-10.jpg" />
+    <Content Include="images\properties-city-11.jpg" />
+    <Content Include="images\properties-city-12.jpg" />
+    <Content Include="images\properties-city-13.jpg" />
+    <Content Include="images\properties-city-14.jpg" />
+    <Content Include="images\properties-city-15.jpg" />
+    <Content Include="images\properties-city-16.jpg" />
+    <Content Include="images\properties-city-17.jpg" />
+    <Content Include="images\properties-city-18.jpg" />
+    <Content Include="images\properties-creative-01.jpg" />
+    <Content Include="images\properties-creative-02.jpg" />
+    <Content Include="images\properties-creative-03.jpg" />
+    <Content Include="images\properties-creative-04.jpg" />
+    <Content Include="images\properties-creative-05.jpg" />
+    <Content Include="images\properties-creative-06.jpg" />
+    <Content Include="images\properties-creative-07.jpg" />
+    <Content Include="images\properties-creative-08.jpg" />
+    <Content Include="images\properties-grid-01.jpg" />
+    <Content Include="images\properties-grid-02.jpg" />
+    <Content Include="images\properties-grid-03.jpg" />
+    <Content Include="images\properties-grid-04.jpg" />
+    <Content Include="images\properties-grid-05.jpg" />
+    <Content Include="images\properties-grid-06.jpg" />
+    <Content Include="images\properties-grid-07.jpg" />
+    <Content Include="images\properties-grid-08.jpg" />
+    <Content Include="images\properties-grid-09.jpg" />
+    <Content Include="images\properties-grid-10.jpg" />
+    <Content Include="images\properties-grid-11.jpg" />
+    <Content Include="images\properties-grid-12.jpg" />
+    <Content Include="images\properties-grid-13.jpg" />
+    <Content Include="images\properties-grid-14.jpg" />
+    <Content Include="images\properties-grid-15.jpg" />
+    <Content Include="images\properties-grid-16.jpg" />
+    <Content Include="images\properties-grid-17.jpg" />
+    <Content Include="images\properties-grid-18.jpg" />
+    <Content Include="images\properties-grid-19.jpg" />
+    <Content Include="images\properties-grid-20.jpg" />
+    <Content Include="images\properties-grid-21.jpg" />
+    <Content Include="images\properties-grid-22.jpg" />
+    <Content Include="images\properties-grid-23.jpg" />
+    <Content Include="images\properties-grid-24.jpg" />
+    <Content Include="images\properties-grid-25.jpg" />
+    <Content Include="images\properties-grid-26.jpg" />
+    <Content Include="images\properties-grid-27.jpg" />
+    <Content Include="images\properties-grid-28.jpg" />
+    <Content Include="images\properties-grid-29.jpg" />
+    <Content Include="images\properties-grid-30.jpg" />
+    <Content Include="images\properties-grid-31.jpg" />
+    <Content Include="images\properties-grid-32.jpg" />
+    <Content Include="images\properties-grid-33.jpg" />
+    <Content Include="images\properties-grid-34.jpg" />
+    <Content Include="images\properties-grid-35.jpg" />
+    <Content Include="images\properties-grid-36.jpg" />
+    <Content Include="images\properties-grid-37.jpg" />
+    <Content Include="images\properties-grid-38.jpg" />
+    <Content Include="images\properties-grid-39.jpg" />
+    <Content Include="images\properties-grid-40.jpg" />
+    <Content Include="images\properties-grid-41.jpg" />
+    <Content Include="images\properties-grid-42.jpg" />
+    <Content Include="images\properties-grid-43.jpg" />
+    <Content Include="images\properties-grid-44.jpg" />
+    <Content Include="images\properties-grid-45.jpg" />
+    <Content Include="images\properties-grid-46.jpg" />
+    <Content Include="images\properties-grid-47.jpg" />
+    <Content Include="images\properties-grid-48.jpg" />
+    <Content Include="images\properties-grid-49.jpg" />
+    <Content Include="images\properties-grid-50.jpg" />
+    <Content Include="images\properties-grid-51.jpg" />
+    <Content Include="images\properties-grid-52.jpg" />
+    <Content Include="images\properties-grid-53.jpg" />
+    <Content Include="images\properties-grid-54.jpg" />
+    <Content Include="images\properties-grid-55.jpg" />
+    <Content Include="images\properties-grid-56.jpg" />
+    <Content Include="images\properties-grid-57.jpg" />
+    <Content Include="images\properties-grid-58.jpg" />
+    <Content Include="images\properties-grid-59.jpg" />
+    <Content Include="images\properties-grid-60.jpg" />
+    <Content Include="images\properties-grid-61.jpg" />
+    <Content Include="images\properties-grid-62.jpg" />
+    <Content Include="images\properties-grid-63.jpg" />
+    <Content Include="images\properties-grid-64.jpg" />
+    <Content Include="images\properties-grid-66.jpg" />
+    <Content Include="images\properties-grid-67.jpg" />
+    <Content Include="images\properties-grid-68.jpg" />
+    <Content Include="images\properties-grid-69.jpg" />
+    <Content Include="images\properties-grid-70.jpg" />
+    <Content Include="images\properties-grid-71.jpg" />
+    <Content Include="images\properties-grid-72.jpg" />
+    <Content Include="images\properties-grid-73.jpg" />
+    <Content Include="images\properties-grid-74.jpg" />
+    <Content Include="images\properties-grid-75.jpg" />
+    <Content Include="images\properties-grid-76.jpg" />
+    <Content Include="images\properties-grid-77.jpg" />
+    <Content Include="images\properties-grid-78.jpg" />
+    <Content Include="images\properties-grid-79.jpg" />
+    <Content Include="images\properties-grid-80.jpg" />
+    <Content Include="images\properties-grid-81.jpg" />
+    <Content Include="images\properties-grid-83.jpg" />
+    <Content Include="images\properties-grid-84.jpg" />
+    <Content Include="images\properties-grid-85.jpg" />
+    <Content Include="images\properties-grid-86.jpg" />
+    <Content Include="images\properties-grid-87.jpg" />
+    <Content Include="images\properties-grid-88.jpg" />
+    <Content Include="images\properties-list-01.jpg" />
+    <Content Include="images\properties-list-02.jpg" />
+    <Content Include="images\properties-list-03.jpg" />
+    <Content Include="images\properties-list-04.jpg" />
+    <Content Include="images\properties-list-05.jpg" />
+    <Content Include="images\properties-list-06.jpg" />
+    <Content Include="images\properties-list-07.jpg" />
+    <Content Include="images\properties-list-08.jpg" />
+    <Content Include="images\properties-list-09.jpg" />
+    <Content Include="images\properties-list-10.jpg" />
+    <Content Include="images\properties-list-11.jpg" />
+    <Content Include="images\properties-list-12.jpg" />
+    <Content Include="images\properties-list-13.jpg" />
+    <Content Include="images\properties-list-14.jpg" />
+    <Content Include="images\properties-list-15.jpg" />
+    <Content Include="images\properties-list-16.jpg" />
+    <Content Include="images\properties-list-17.jpg" />
+    <Content Include="images\properties-list-18.jpg" />
+    <Content Include="images\properties-list-19.jpg" />
+    <Content Include="images\properties-list-20.jpg" />
+    <Content Include="images\properties-slider-01.jpg" />
+    <Content Include="images\properties-slider-02.jpg" />
+    <Content Include="images\properties-slider-03.jpg" />
+    <Content Include="images\properties-slider-04.jpg" />
+    <Content Include="images\properties-slider-05.jpg" />
+    <Content Include="images\properties-slider-06.jpg" />
+    <Content Include="images\properties-slider-07.jpg" />
+    <Content Include="images\properties-slider-08.jpg" />
+    <Content Include="images\properties-slider-09.jpg" />
+    <Content Include="images\properties-slider-10.jpg" />
+    <Content Include="images\properties-slider-11.jpg" />
+    <Content Include="images\property-details-landing.png" />
+    <Content Include="images\quote.png" />
+    <Content Include="images\re-captcha.png" />
+    <Content Include="images\Remove.png" />
+    <Content Include="images\review-01.jpg" />
+    <Content Include="images\review-02.jpg" />
+    <Content Include="images\review-05.jpg" />
+    <Content Include="images\review-06.jpg" />
+    <Content Include="images\review-07.jpg" />
+    <Content Include="images\review-08.jpg" />
+    <Content Include="images\review-09.jpg" />
+    <Content Include="images\signature.png" />
+    <Content Include="images\single-detail-property-01.jpg" />
+    <Content Include="images\single-detail-property-02.jpg" />
+    <Content Include="images\single-detail-property-03.jpg" />
+    <Content Include="images\single-detail-property-04.jpg" />
+    <Content Include="images\single-detail-property-05.png" />
+    <Content Include="images\single-detail-property-06.png" />
+    <Content Include="images\single-detail-property-07.jpg" />
+    <Content Include="images\single-detail-property-08.jpg" />
+    <Content Include="images\single-detail-property-09.jpg" />
+    <Content Include="images\single-detail-property-10.jpg" />
+    <Content Include="images\single-detail-property-11.jpg" />
+    <Content Include="images\single-family.png" />
+    <Content Include="images\single-image-01.jpg" />
+    <Content Include="images\single-image-02.png" />
+    <Content Include="images\single-image-03.png" />
+    <Content Include="images\single-image-04.png" />
+    <Content Include="images\single-image-05.png" />
+    <Content Include="images\single-image-06.jpg" />
+    <Content Include="images\single-image-07.jpg" />
+    <Content Include="images\single-landing-01.jpg" />
+    <Content Include="images\single-landing-02.jpg" />
+    <Content Include="images\single-landing-03.jpg" />
+    <Content Include="images\single-landing-04.jpg" />
+    <Content Include="images\single-landing-05.jpg" />
+    <Content Include="images\single-landing-06.jpg" />
+    <Content Include="images\single-landing-07.jpg" />
+    <Content Include="images\single-landing-08.jpg" />
+    <Content Include="images\single-landing-09.jpg" />
+    <Content Include="images\single-property-1.jpg" />
+    <Content Include="images\single-property-11.jpg" />
+    <Content Include="images\single-property-12.jpg" />
+    <Content Include="images\single-property-13.jpg" />
+    <Content Include="images\single-property-14.jpg" />
+    <Content Include="images\single-property-15.jpg" />
+    <Content Include="images\single-property-16.jpg" />
+    <Content Include="images\single-property-17.jpg" />
+    <Content Include="images\single-property-18.jpg" />
+    <Content Include="images\single-property-19.jpg" />
+    <Content Include="images\single-property-2.jpg" />
+    <Content Include="images\single-property-20.jpg" />
+    <Content Include="images\single-property-21.jpg" />
+    <Content Include="images\single-property-22.jpg" />
+    <Content Include="images\single-property-3.jpg" />
+    <Content Include="images\single-property-4.jpg" />
+    <Content Include="images\single-property-5.jpg" />
+    <Content Include="images\single-property-6.jpg" />
+    <Content Include="images\single-property-7.jpg" />
+    <Content Include="images\single-property-8.jpg" />
+    <Content Include="images\single-property-9.jpg" />
+    <Content Include="images\single-property-lg-1.jpg" />
+    <Content Include="images\single-property-lg-10.jpg" />
+    <Content Include="images\single-property-lg-11.jpg" />
+    <Content Include="images\single-property-lg-12.jpg" />
+    <Content Include="images\single-property-lg-13.jpg" />
+    <Content Include="images\single-property-lg-14.jpg" />
+    <Content Include="images\single-property-lg-15.jpg" />
+    <Content Include="images\single-property-lg-16.jpg" />
+    <Content Include="images\single-property-lg-17.jpg" />
+    <Content Include="images\single-property-lg-19.jpg" />
+    <Content Include="images\single-property-lg-2.jpg" />
+    <Content Include="images\single-property-lg-3.jpg" />
+    <Content Include="images\single-property-lg-4.jpg" />
+    <Content Include="images\single-property-lg-5.jpg" />
+    <Content Include="images\single-property-lg-9.jpg" />
+    <Content Include="images\single-property-sm-1.jpg" />
+    <Content Include="images\single-property-sm-17.jpg" />
+    <Content Include="images\single-property-sm-18.jpg" />
+    <Content Include="images\single-property-sm-19.jpg" />
+    <Content Include="images\single-property-sm-2.jpg" />
+    <Content Include="images\single-property-sm-3.jpg" />
+    <Content Include="images\single-property-sm-4.jpg" />
+    <Content Include="images\single-property-sm-5.jpg" />
+    <Content Include="images\single-property-sm-6.jpg" />
+    <Content Include="images\single-property-sm-7.jpg" />
+    <Content Include="images\single-property-sm-8.jpg" />
+    <Content Include="images\small-greater-boston.jpg" />
+    <Content Include="images\small-los-angeles.jpg" />
+    <Content Include="images\small-new-mexico.jpg" />
+    <Content Include="images\small-south-florida.jpg" />
+    <Content Include="images\small-the-hamptons.jpg" />
+    <Content Include="images\sofa.png" />
+    <Content Include="images\svg\flag-brl.svg" />
+    <Content Include="images\svg\flag-de.svg" />
+    <Content Include="images\svg\flag-gbp.svg" />
+    <Content Include="images\svg\flag-idr.svg" />
+    <Content Include="images\svg\flag-inr.svg" />
+    <Content Include="images\svg\flag-try.svg" />
+    <Content Include="images\svg\flag-us.svg" />
+    <Content Include="images\testimonial-1.png" />
+    <Content Include="images\testimonial-2.jpg" />
+    <Content Include="images\testimonial-3.jpg" />
+    <Content Include="images\testimonial-4.jpg" />
+    <Content Include="images\testimonial-5.jpg" />
+    <Content Include="images\testimonial-6.jpg" />
+    <Content Include="images\town.png" />
+    <Content Include="images\urban.png" />
+    <Content Include="images\variable.jpg" />
+    <Content Include="images\verified.png" />
+    <Content Include="images\white-architecture-and-city.png" />
+    <Content Include="images\white-eco-house.png" />
+    <Content Include="images\white-sofa.png" />
+    <Content Include="images\white-verified.png" />
+    <Content Include="js\doc.js" />
+    <Content Include="js\SonradanEklenenler.js" />
+    <Content Include="js\theme.js" />
+    <Content Include="KullaniciDetay.aspx" />
+    <Content Include="Kullanicilar.aspx" />
+    <Content Include="Profilim.aspx" />
+    <Content Include="Sepetim.aspx" />
+    <Content Include="Siparisler.aspx" />
+    <Content Include="Siparislerim.aspx" />
+    <Content Include="Siparislerim_Detay.aspx" />
+    <Content Include="Siparis_Detay.aspx" />
+    <Content Include="UrunBilgisi.aspx" />
+    <Content Include="UrunEkle.aspx" />
+    <Content Include="Urunistatistik.aspx" />
+    <Content Include="Urunler.aspx" />
+    <Content Include="Urunlerim.aspx" />
+    <Content Include="vendors\anchor\anchor.min.js" />
+    <Content Include="vendors\animate.css" />
+    <Content Include="vendors\bootstrap-select\css\bootstrap-select.min.css" />
+    <Content Include="vendors\bootstrap-select\js\bootstrap-select.min.js" />
+    <Content Include="vendors\bootstrap\bootstrap.bundle.js" />
+    <Content Include="vendors\chartjs\Chart.min.css" />
+    <Content Include="vendors\chartjs\Chart.min.js" />
+    <Content Include="vendors\clipboard\clipboard.min.js" />
+    <Content Include="vendors\counter\countUp.js" />
+    <Content Include="vendors\dataTables\jquery.dataTables.min.css" />
+    <Content Include="vendors\dataTables\jquery.dataTables.min.js" />
+    <Content Include="vendors\dropzone\css\dropzone.min.css" />
+    <Content Include="vendors\dropzone\js\dropzone.min.js" />
+    <Content Include="vendors\fontawesome-pro-5\css\all.css" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400.svg" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900.svg" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300.svg" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400.svg" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900.svg" />
+    <Content Include="vendors\hc-sticky\hc-sticky.min.js" />
+    <Content Include="vendors\images\sort_asc.png" />
+    <Content Include="vendors\images\sort_asc_disabled.png" />
+    <Content Include="vendors\images\sort_both.png" />
+    <Content Include="vendors\images\sort_desc.png" />
+    <Content Include="vendors\images\sort_desc_disabled.png" />
+    <Content Include="vendors\jparallax\TweenMax.min.js" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_444444_256x240.png" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_555555_256x240.png" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_777620_256x240.png" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_777777_256x240.png" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="vendors\jquery-ui\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="vendors\jquery-ui\jquery-ui.min.css" />
+    <Content Include="vendors\jquery-ui\jquery-ui.min.js" />
+    <Content Include="vendors\jquery.min.js" />
+    <Content Include="vendors\magnific-popup\jquery.magnific-popup.min.js" />
+    <Content Include="vendors\magnific-popup\magnific-popup.min.css" />
+    <Content Include="vendors\mapbox-gl\mapbox-gl.js" />
+    <Content Include="vendors\mapbox-gl\mapbox-gl.min.css" />
+    <Content Include="vendors\slick\slick.min.css" />
+    <Content Include="vendors\slick\slick.min.js" />
+    <Content Include="vendors\timepicker\bootstrap-timepicker.min.css" />
+    <Content Include="vendors\timepicker\bootstrap-timepicker.min.js" />
+    <Content Include="vendors\waypoints\jquery.waypoints.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm2.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminSayfasi.Master.cs">
+      <DependentUpon>AdminSayfasi.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminSayfasi.Master.designer.cs">
+      <DependentUpon>AdminSayfasi.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUrunDetay.aspx.cs">
+      <DependentUpon>AdminUrunDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminUrunDetay.aspx.designer.cs">
+      <DependentUpon>AdminUrunDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUrunler.aspx.cs">
+      <DependentUpon>AdminUrunler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminUrunler.aspx.designer.cs">
+      <DependentUpon>AdminUrunler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Adres_Ekle.aspx.cs">
+      <DependentUpon>Adres_Ekle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adres_Ekle.aspx.designer.cs">
+      <DependentUpon>Adres_Ekle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AnaSayfa.aspx.cs">
+      <DependentUpon>AnaSayfa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.aspx.designer.cs">
+      <DependentUpon>AnaSayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AnaSayfa.Master.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Master.designer.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Cikis.aspx.cs">
+      <DependentUpon>Cikis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cikis.aspx.designer.cs">
+      <DependentUpon>Cikis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Classlar\Favori.cs" />
+    <Compile Include="Classlar\SqlConnectionClass.cs" />
+    <Compile Include="Favorilerim.aspx.cs">
+      <DependentUpon>Favorilerim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Favorilerim.aspx.designer.cs">
+      <DependentUpon>Favorilerim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GenelBilgiler.aspx.cs">
+      <DependentUpon>GenelBilgiler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GenelBilgiler.aspx.designer.cs">
+      <DependentUpon>GenelBilgiler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hata.aspx.cs">
+      <DependentUpon>Hata.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hata.aspx.designer.cs">
+      <DependentUpon>Hata.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciDetay.aspx.cs">
+      <DependentUpon>KullaniciDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KullaniciDetay.aspx.designer.cs">
+      <DependentUpon>KullaniciDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanicilar.aspx.cs">
+      <DependentUpon>Kullanicilar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kullanicilar.aspx.designer.cs">
+      <DependentUpon>Kullanicilar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Profilim.aspx.cs">
+      <DependentUpon>Profilim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Profilim.aspx.designer.cs">
+      <DependentUpon>Profilim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Profilim.master.cs">
+      <DependentUpon>Profilim.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Profilim.master.designer.cs">
+      <DependentUpon>Profilim.master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sepetim.aspx.cs">
+      <DependentUpon>Sepetim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sepetim.aspx.designer.cs">
+      <DependentUpon>Sepetim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Siparisler.aspx.cs">
+      <DependentUpon>Siparisler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Siparisler.aspx.designer.cs">
+      <DependentUpon>Siparisler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Siparislerim.aspx.cs">
+      <DependentUpon>Siparislerim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Siparislerim.aspx.designer.cs">
+      <DependentUpon>Siparislerim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Siparislerim_Detay.aspx.cs">
+      <DependentUpon>Siparislerim_Detay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Siparislerim_Detay.aspx.designer.cs">
+      <DependentUpon>Siparislerim_Detay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Siparis_Detay.aspx.cs">
+      <DependentUpon>Siparis_Detay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Siparis_Detay.aspx.designer.cs">
+      <DependentUpon>Siparis_Detay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UrunBilgisi.aspx.cs">
+      <DependentUpon>UrunBilgisi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UrunBilgisi.aspx.designer.cs">
+      <DependentUpon>UrunBilgisi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UrunEkle.aspx.cs">
+      <DependentUpon>UrunEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UrunEkle.aspx.designer.cs">
+      <DependentUpon>UrunEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Urunistatistik.aspx.cs">
+      <DependentUpon>Urunistatistik.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Urunistatistik.aspx.designer.cs">
+      <DependentUpon>Urunistatistik.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler.aspx.cs">
+      <DependentUpon>Urunler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Urunler.aspx.designer.cs">
+      <DependentUpon>Urunler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Urunlerim.aspx.cs">
+      <DependentUpon>Urunlerim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Urunlerim.aspx.designer.cs">
+      <DependentUpon>Urunlerim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AnaSayfa.Master" />
+    <Content Include="AdminSayfasi.Master" />
+    <Content Include="Profilim.master" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400.ttf" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400.woff" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400.woff2" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-brands-400d41d.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900.ttf" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900.woff" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900.woff2" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-duotone-900d41d.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300.ttf" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300.woff" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300.woff2" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-light-300d41d.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400.ttf" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400.woff" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400.woff2" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-regular-400d41d.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900.eot" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900.ttf" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900.woff" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900.woff2" />
+    <Content Include="vendors\fontawesome-pro-5\webfonts\fa-solid-900d41d.eot" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Musteri\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58629</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44301/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

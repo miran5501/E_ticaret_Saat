@@ -1,0 +1,545 @@
+﻿.text-truncate {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.icon-button {
+    border: none;
+    width: 15px; /* Resmin boyutuna göre ayarlayın */
+    height: 15px; /* Resmin boyutuna göre ayarlayın */
+}
+
+.ui-like2 {
+}
+
+    .ui-like2 .btn-like {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        display: none;
+    }
+
+    .ui-like2 .like {
+        width: var(--icon-size);
+        height: auto;
+        fill: var(--icon-secondary-color);
+        cursor: pointer;
+        -webkit-transition: 0.2s;
+        -o-transition: 0.2s;
+        transition: 0.2s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        transform-origin: top;
+    }
+
+    .ui-like2 .btn-like:hover .like {
+        fill: var(--icon-hover-color);
+    }
+
+/* From Uiverse.io by Yaya12085 */
+.ui-like {
+    --icon-size: 30px;
+    --icon-secondary-color: rgb(255, 255, 255);
+    --icon-hover-color: rgb(211, 205, 205);
+    --icon-primary-color: rgb(230, 26, 26);
+    --icon-circle-border: 1px solid var(--icon-primary-color);
+    --icon-circle-size: 35px;
+    --icon-anmt-duration: 0.3s;
+}
+
+    .ui-like input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        display: none;
+    }
+
+    .ui-like .like {
+        width: var(--icon-size);
+        height: auto;
+        fill: var(--icon-secondary-color);
+        cursor: pointer;
+        -webkit-transition: 0.2s;
+        -o-transition: 0.2s;
+        transition: 0.2s;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        position: relative;
+        -webkit-transform-origin: top;
+        -ms-transform-origin: top;
+        transform-origin: top;
+    }
+
+.like::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    -webkit-box-shadow: 0 30px 0 -4px var(--icon-primary-color), 30px 0 0 -4px var(--icon-primary-color), 0 -30px 0 -4px var(--icon-primary-color), -30px 0 0 -4px var(--icon-primary-color), -22px 22px 0 -4px var(--icon-primary-color), -22px -22px 0 -4px var(--icon-primary-color), 22px -22px 0 -4px var(--icon-primary-color), 22px 22px 0 -4px var(--icon-primary-color);
+    box-shadow: 0 30px 0 -4px var(--icon-primary-color), 30px 0 0 -4px var(--icon-primary-color), 0 -30px 0 -4px var(--icon-primary-color), -30px 0 0 -4px var(--icon-primary-color), -22px 22px 0 -4px var(--icon-primary-color), -22px -22px 0 -4px var(--icon-primary-color), 22px -22px 0 -4px var(--icon-primary-color), 22px 22px 0 -4px var(--icon-primary-color);
+    border-radius: 50%;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+}
+
+.like::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    border: var(--icon-circle-border);
+    opacity: 0;
+}
+
+/* actions */
+
+.ui-like:hover .like {
+    fill: var(--icon-hover-color);
+}
+
+.ui-like input:checked + .like::after {
+    -webkit-animation: circles var(--icon-anmt-duration) cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+    animation: circles var(--icon-anmt-duration) cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+    -webkit-animation-delay: var(--icon-anmt-duration);
+    animation-delay: var(--icon-anmt-duration);
+}
+
+.ui-like input:checked + .like {
+    fill: var(--icon-primary-color);
+    -webkit-animation: like var(--icon-anmt-duration) forwards;
+    animation: like var(--icon-anmt-duration) forwards;
+    -webkit-transition-delay: 0.3s;
+    -o-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+
+    .ui-like input:checked + .like::before {
+        -webkit-animation: circle var(--icon-anmt-duration) cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        animation: circle var(--icon-anmt-duration) cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        -webkit-animation-delay: var(--icon-anmt-duration);
+        animation-delay: var(--icon-anmt-duration);
+    }
+
+@-webkit-keyframes like {
+    50% {
+        -webkit-transform: scaleY(0.6);
+        transform: scaleY(0.6);
+    }
+
+    100% {
+        -webkit-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+}
+
+@keyframes like {
+    50% {
+        -webkit-transform: scaleY(0.6);
+        transform: scaleY(0.6);
+    }
+
+    100% {
+        -webkit-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+}
+
+@-webkit-keyframes circle {
+    from {
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+
+    90% {
+        width: var(--icon-circle-size);
+        height: var(--icon-circle-size);
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes circle {
+    from {
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+
+    90% {
+        width: var(--icon-circle-size);
+        height: var(--icon-circle-size);
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes circles {
+    from {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    to {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8);
+        opacity: 0;
+    }
+}
+
+@keyframes circles {
+    from {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    to {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8);
+        opacity: 0;
+    }
+}
+
+@media (max-width: 992px) {
+    #kategori {
+        display: flex !important;
+        flex-direction: row !important;
+        overflow-x: auto !important;
+        white-space: nowrap !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .form-inline label {
+        display: inline-block; /* Flex yerine blok düzeni */
+    }
+}
+
+
+.old-price {
+    font-size: 14px !important;
+    text-decoration: line-through;
+}
+
+.new-price {
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 77%;
+    /* Kare oranı oluşturur */
+    background-color: #f0f0f0;
+    /* Görsel yüklendiğinde boş alanı renklendirir */
+}
+
+    .image-container img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 100%;
+        height: 100%;
+        transform: translate(-50%, -50%);
+        transition: transform 0.3s ease;
+    }
+
+    .image-container:hover img {
+        transform: translate(-50%, -50%) scale(1.1);
+    }
+
+.padding-sifirla {
+    padding: 0 !important;
+}
+
+.bar {
+    margin: 0 auto;
+    width: 40%; /* Çubuğun genişliği */
+    height: 40px; /* Çubuğun yüksekliği */
+    display: flex;
+    align-items: center; /* İçeriği dikey olarak ortalamak için */
+}
+
+
+
+.searchbar {
+    flex: 1; /* Genişliğin tamamını kaplayacak şekilde */
+    height: 40px; /* Arama çubuğunun yüksekliği */
+    border: none; /* Kenarlıkları kaldırmak için */
+    border-radius: 30px; /* Köşeleri yuvarlamak için */
+    font-size: 16px; /* Yazı tipi boyutu */
+    outline: none; /* Odaklanma kenarlığını kaldırmak için */
+    padding: 0 10px; /* İçerikte biraz boşluk bırakmak için */
+    width: 80%;
+    padding-left: 15px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
+    border-radius: 30px; /* Köşeleri yuvarlamak için */
+    border: 1px solid #dcdcdc; /* Hafif gri kenarlık */
+}
+
+    .searchbar:hover {
+        box-shadow: 1px 1px 8px 1px #dcdcdc; /* Hover durumunda gölge efekti */
+    }
+
+    .searchbar:focus-within {
+        box-shadow: 1px 1px 8px 1px #dcdcdc; /* Odaklanma durumunda gölge efekti */
+    }
+
+.search-button {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+    .search-button svg {
+        vertical-align: middle;
+        transition: fill 0.3s;
+    }
+
+    .search-button:hover svg {
+        fill: #0056b3; /* Hover efektinde ikonun rengini değiştirmek için */
+    }
+
+.secondary-navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    padding: 0;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    position: fixed;
+    transition: top 0.5s ease; /* Geçiş animasyonu */
+    z-index: 1000;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.secondarynav-item {
+    flex: 1;
+    text-align: center;
+    padding: 0;
+    transition: background-color 0.3s ease;
+}
+
+    .secondarynav-item a {
+        text-decoration: none;
+        font-weight: bold;
+        display: block;
+        padding: 10px 0;
+        transition: color 0.3s ease;
+    }
+
+    .secondarynav-item:hover {
+        background-color: #EAEAEA;
+    }
+
+    /* Menü Butonunu büyük ekranlarda gizle */
+    @media (min-width: 992px) {
+        .menu-button {
+        display: none;
+    }
+    .responsivearama {
+        display: none;
+    }
+}
+
+@media(max-width:992px) {
+    .secondary-navbar {
+        display: none; /* Ekran genişliği 992 piksel ve üzeri olduğunda gizle */
+    }
+
+    .login-register-modal {
+        transform: scale(0.9) !important;
+    }
+
+    .logo {
+        transform: scale(0.8); /* %80 oranında küçültür */
+    }
+
+    .menu-button {
+        display: block; /* Varsayılan olarak göster */
+        top: 20px;
+        left: 20px;
+        z-index: 1001;
+        font-size: 24px;
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .responsivearama{
+        display: block;
+    }
+    .bar{
+        width:90% !important;
+    }
+    .searchbar{
+        width:90% !important;
+    }
+}
+
+.login-register-modal .nav-link.active + .nav-item {
+    border-bottom-left-radius: 16px !important;
+}
+
+.login-register-modal .nav-link:not(.active):first-child {
+    border-bottom-right-radius: 16px !important;
+}
+/* Sidebar */
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    overflow-y: auto;
+    transition: 0.5s;
+    z-index: 1000;
+    color: white;
+}
+
+    /* Sidebar'ı açmak için */
+    .sidebar.open {
+        width: 300px;
+    }
+
+/* Sidebar item */
+.sidebar-item {
+    color: black;
+    padding-left: 15px;
+    white-space: nowrap;
+}
+
+.sidebar-a {
+    color: black !important;
+    font-size: 18px;
+}
+
+
+.sidebar-item {
+    position: relative; /* Konumlamayı destekler */
+}
+
+.sidebar-icon {
+    position: absolute; /* İkonun konumunu ayarlar */
+    top: 10px; /* Üstten uzaklık */
+    right: 10px; /* Sağdan uzaklık */
+    font-size: 24px; /* İkon boyutu */
+    color: #333; /* İkon rengi */
+    cursor: pointer; /* Fare ile üzerine gelindiğinde imleç değişir */
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Yarı saydam karanlık arkaplan */
+    z-index: 999; /* Sidebar'ın arkasında kalacak şekilde ayarla */
+}
+
+    /* Overlay aktif olduğunda */
+    .overlay.open {
+        display: block;
+    }
+
+}
+
+@media(max-width:992px) {
+}
+
+
+
+.slider-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+    .slide img {
+        width: 100%;
+        display: block;
+    }
+
+/* Ok butonları slider-container içinde sabit */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 900;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+
+
+
+@media (min-width: 576px) {
+}
+
+.dropdownbuton {
+    width: auto !important; /* İçerik kadar geniş olacak şekilde ayarlar */
+    min-width: unset !important; /* Bootstrap'teki minimum genişlik ayarını kaldırır */
+}
+.inner{
+    max-height: 300px !important;
+}
+
+.siralama{
+    max-width:250px !important;
+}
+
+
